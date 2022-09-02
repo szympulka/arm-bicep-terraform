@@ -3,6 +3,6 @@ Przygotowałem trzy pliki, dzięki którym zobaczysz różnice w strukturach klu
 - [Blog](https://www.devincloud.pl/arm-bicep-czy-terraform-co-wybrac/)
 - [Hued.me](https://hued.me)
 - [Linkedin](https://www.linkedin.com/in/szymonpulka/)
-- [ARM]https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+- [ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
 - [BICEP](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep)
 - [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
